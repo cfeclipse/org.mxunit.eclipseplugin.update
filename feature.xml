@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.mxunit.eclipseplugin.update"
+      label="MXUnit Eclipse Update Site"
+      version="1.0.0"
+      provider-name="MXUnit">
+
+   <url>
+      <discovery label="MXUnit discovery site" url="http://mxunit.org/update"/>
+   </url>
+
+   <includes
+         id="org.mxunit.eclipseplugin.feature"
+         version="0.0.0"/>
+
+</feature>

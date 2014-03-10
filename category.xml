@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id=org.mxunit.eclipseplugin.feature version="0.0.0">
+      <category name="mxunit"/>
+   </feature>
+   <category-def name="mxunit" label="MXUnit">
+      <description>
+         Eclipse Plugin for MXUnit Unit Testing Framework for ColdFusion.
+      </description>
+   </category-def>
+</site>
